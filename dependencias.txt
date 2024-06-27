@@ -1,0 +1,6 @@
+pip install moviepy
+
+pip install SpeechRecognition
+
+pip install pydub
+
